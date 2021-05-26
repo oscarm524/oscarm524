@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oscarm524
 - 👀 I’m interested in applied statistics, machine learning and math-finance
 - 🌱 I’m currently learning aws
-- 💞️ I’m looking to collaborate on data related projects.
+- 💞️ I’m looking to collaborate on data science related projects.
 - 📫 How to reach me: oscar.aguilar.1987@gmail.com
 
 <!---
