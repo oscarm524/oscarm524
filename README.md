@@ -1,8 +1,10 @@
 - Hi, I’m @oscarm524. I'm a data scientist and an assistant professor of analytics.
 - I’m interested in applied statistics, machine learning and math-finance.
-- I’m currently learning how to use aws in machine learning projects.
-- I’m looking to collaborate on data science related projects.
 - How to reach me: oscar.aguilar.1987@gmail.com
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=oscarm524&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarm524&langs_count=5&theme=tokyonight)]()
+
 
 <!---
 oscarm524/oscarm524 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
