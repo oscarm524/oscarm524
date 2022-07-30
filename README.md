@@ -1,6 +1,6 @@
-- Hi, I’m @oscarm524. I'm a data scientist and an assistant professor of analytics.
-- I’m interested in applied statistics, machine learning and math-finance.
-- How to reach me: oscar.aguilar.1987@gmail.com
+Hello there
+
+My name is Oscar Aguilar. I'm originally from Peru, but I moved to USA when I was 18 years old. I'm a data scientist and an assistant professor of analytics. I’m interested in applied statistics, machine learning and math-finance.
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=oscarm524&count_private=true&theme=tokyonight&showicons=true)]()
 
