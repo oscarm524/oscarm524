@@ -6,8 +6,6 @@ I'm a data scientist at [Macquarie Group](https://www.macquarie.com/us/en.html) 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=oscarm524&count_private=true&theme=tokyonight&showicons=true)]()
 
-# [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarm524&langs_count=5&theme=tokyonight)]()
-
 
 <!---
 oscarm524/oscarm524 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
